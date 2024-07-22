@@ -1,0 +1,71 @@
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\samed\Desktop\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\samed\OneDrive\Belgeler\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\notHesaplama\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
